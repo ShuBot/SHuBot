@@ -1,9 +1,9 @@
 <img src="https://github.com/ShuBot/ShuBot/blob/main/images/banner.png" width="1000">
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer;I+am+a+mechatronics+developer;I+am+a+cybersecurity+researcher;I+am+an+aerospace+researcher)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer;I+am+a+embedded+systems+developer;I+am+a+hardware+developer;I+am+an+firmware+developer)](https://git.io/typing-svg)
 
 <p align="center" style="text-decoration:none;"> 
-     <a href="https://shubot.github.io/#about" target="_blank"> 『 Mission Statement 』</a>
+     <a href="https://shubot.github.io/#about" target="_blank"> 『 About Me 』</a>
 </p>
 
 
