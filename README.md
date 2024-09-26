@@ -9,7 +9,7 @@
 
 ---
 ## 0x01 <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,git,c,cpp,python,git&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,cmake,raspberrypi,linux,debian,ubuntu,aws,grafana,git,github,md,notion,sublime,vscode,stackoverflow,&perline=12)](https://skillicons.dev)
 
 ---
 ## 0x02 > Notable Projects
