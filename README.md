@@ -9,7 +9,7 @@
 
 ---
 ## 0x01 <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,golang,git,azure,react,vue,flutter,c,cpp,javascript,typescript,swift,rust,ruby,python,haskell,java,arch,bash,cs,git,kali&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,c,cpp,python,git&perline=12)](https://skillicons.dev)
 
 ---
 ## 0x02 > Notable Projects
@@ -17,7 +17,7 @@
 [![ble_rgb_bulb](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=ble_rgb_bulb&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/ble_rgb_bulb)
 [![PCB_Reflow_Hotplate](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=PCB_Reflow_Hotplate&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/PCB_Reflow_Hotplate)
 [![shubot_kicad_lib](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=shubot_kicad_lib&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/shubot_kicad_lib)
-[![esp_cam_OV7670](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=netspionage&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/esp_cam_OV7670)
+[![esp_cam_OV7670](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=esp_cam_OV7670&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/esp_cam_OV7670)
 
 ---
 ## 0x03 > Support my Work
