@@ -15,35 +15,12 @@
 ## 0x02 > Notable Projects
 
 [![ble_rgb_bulb](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=ble_rgb_bulb&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/ble_rgb_bulb)
-[![DroneXtract](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=DroneXtract&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/DroneXtract)
-[![WiCon Kit](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=ESP8266-WiCon-Kit&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/ESP8266-WiCon-Kit)
-[![netspionage](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=netspionage&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/netspionage)
+[![PCB_Reflow_Hotplate](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=PCB_Reflow_Hotplate&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/PCB_Reflow_Hotplate)
+[![shubot_kicad_lib](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=shubot_kicad_lib&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/shubot_kicad_lib)
+[![esp_cam_OV7670](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=netspionage&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/esp_cam_OV7670)
 
 ---
 ## 0x03 > Support my Work
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/atsuboi01)
-[![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$G4LXY)
- [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/angelinatsuboi)
-<details>
-
-  <summary>↕️ <bold>Cryptocurrency List</bold></summary>
- 
- <br />
-
-| Currency          | Wallet Address                                                                                               |
-|-------------------|--------------------------------------------------------------------------------------------------------------|
-| Bitcoin (BTC)     | bc1qqzsrdz8qa3xe2rp7aajrm88fqge9xxs3v8xu4h                                                                   |
-| Ethereum (ETH)    | 0x43edF701622F4F1174F322dC8D2f5AbdA642275a                                                                   |
-| XRP Ledger (XRP)  | rNKP3PXSstJnhUgUskNKaXWhd7ueiss6Mn                                                                           |
-| BNB               | bnb1t49kkmutyvnsc8xv7r5mu9tfu2u66qhcmqaurw                                                                   |
-| Monero (XMR)      | 4717EuNPoTrTQsiLdGSDAMAJQcze6mVuE8KmBhL9RFT43Xe2FsxWSQtc5trrfdYPS5aUjB8gJApwURcRmMFdccBCJPfeD8M              |
-| Solana (SOL)      | FcrRBcvWsqdVZpS9ZZ6Dt476QA1L95cdh7GqgUGX5RpH                                                                 |
-
-</details>
-
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-[Shield]: Types/shield.md
 
 ## Hi there 👋
 
