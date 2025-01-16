@@ -1,6 +1,6 @@
 <img src="https://github.com/ShuBot/ShuBot/blob/main/images/banner.png" width="1000">
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer;I+am+a+embedded+systems+developer;I+am+a+hardware+developer;I+am+an+firmware+developer)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&center=true&random=false&width=1200&lines=I+am+a+programmer;I+am+an+embedded+systems+developer;I+am+a+hardware+developer;I+am+a+firmware+developer)](https://git.io/typing-svg)
 
 <p align="center" style="text-decoration:none;"> 
      <a href="https://shubot.github.io/#about" target="_blank"> 『 About Me 』</a>
@@ -20,7 +20,7 @@
 [![esp_cam_OV7670](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=esp_cam_OV7670&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/esp_cam_OV7670)
 
 ---
-## 0x03 > Support my Work
+## 0x03 > Connect with me on [linkedin](https://www.linkedin.com/in/shubham-mohapatra-6034279a/).
 
 ## Hi there 👋
 
