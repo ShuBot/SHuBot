@@ -20,9 +20,8 @@
 [![esp_cam_OV7670](https://github-readme-stats.vercel.app/api/pin/?username=ShuBot&repo=esp_cam_OV7670&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ShuBot/esp_cam_OV7670)
 
 ---
-## 0x03 > Connect with me on [linkedin](https://www.linkedin.com/in/shubham-mohapatra-6034279a/).
-
 ## Hi there 👋
+Connect with me on [linkedin](https://www.linkedin.com/in/shubham-mohapatra-6034279a/).
 
 <!--
 **ShuBot/ShuBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
